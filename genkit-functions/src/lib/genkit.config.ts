@@ -21,13 +21,13 @@ import { vertexAI } from '@genkit-ai/vertexai';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAjy138O9JEq4_RyxVwPOQTPlyPkQLgJTI",
-  authDomain: "disco-arcana-424802-j8.firebaseapp.com",
-  databaseURL: "https://disco-arcana-424802-j8-default-rtdb.firebaseio.com",
-  projectId: "disco-arcana-424802-j8",
-  storageBucket: "disco-arcana-424802-j8.appspot.com",
-  messagingSenderId: "350512268060",
-  appId: "1:350512268060:web:ef4431476f5f31e64730d9"
+  apiKey: "*************",
+  authDomain: "***********",
+  databaseURL: "***************m",
+  projectId: "**************",
+  storageBucket: "****************",
+  messagingSenderId: "****************",
+  appId: "*********************"
 };
 
 export const getProjectId = () => {
